@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a949ab4c-3808-4f44-b605-fd049f5db562" name="Changes" comment="Updates">
+      <change beforePath="$PROJECT_DIR$/Milestone1-BFS/2048_in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Milestone1-BFS/2048_out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Milestone1-BFS/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Milestone1-BFS/src/Game2048.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Milestone2-Hill Climbing Search/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Milestone2-Hill Climbing Search/src/Game2048_m2.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
+  <component name="KubernetesApiProvider">{}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wjrmobpnBF7Rw1Xi7QGB83tJtu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yalda/Desktop/CANVAS/2022 3.Fall/2048_Game_AI_Solver&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.158" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.158" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a949ab4c-3808-4f44-b605-fd049f5db562" name="Changes" comment="" />
+      <created>1746565986148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746565986148</updated>
+      <workItem from="1746565987657" duration="119000" />
+      <workItem from="1746566308556" duration="244000" />
+      <workItem from="1746567133421" duration="22000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updates">
+      <option name="closed" value="true" />
+      <created>1746566357566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746566357566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+  </component>
+</project>
