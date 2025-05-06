@@ -17,6 +17,7 @@ In **Milestone 1**, I built the first version of the **2048 Game AI Solver** fro
 ### Example:
 
 #### **Input (`2048_in.txt`)**
+```bash
 5
 2,4,4,0
 16,0,0,0
@@ -38,13 +39,16 @@ In **Milestone 1**, I built the first version of the **2048 Game AI Solver** fro
 0,0,0,0
 0,0,0,1024
 0,0,0,0
-
+```
 #### **Output (`2048_out.txt`)**
+```bash
 60,R,D,U
 80,R,U,U
 60,L,U,L
 544,L,L,L
 2052,L,U,L
+```
+
 ## How It Works
 
 1. Starts with an initial 4x4 grid (from `2048_in.txt`).
