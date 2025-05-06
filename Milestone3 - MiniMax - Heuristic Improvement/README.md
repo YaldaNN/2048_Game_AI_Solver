@@ -119,4 +119,4 @@ This diagram illustrates how the heuristic evaluates board states by prioritizin
 - **Strategic Move Selection**: Moves that maximize long-term potential by leaving more empty spaces are prioritized, even if they don’t immediately maximize the score.
 - **Comparison with Maximizing Score**: Unlike the traditional maximizing score approach, this heuristic emphasizes flexibility and maneuverability, enabling the AI to make better decisions in the long run.
 
-![Screenshot 2025-05-06 at 3.21.49 PM.png](..%2F..%2F..%2F..%2FScreenshot%202025-05-06%20at%203.21.49%E2%80%AFPM.png)
+![Heuristic Evaluation Diagram](heuristic_diagram.png)
